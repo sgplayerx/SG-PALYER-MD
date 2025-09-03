@@ -53,20 +53,20 @@ DONT FORGET TO FORK 🍴 & STAR 🌟 REPO😇
 
 -------------
   
-<a href='https://dua-fatima.onrender.com/' target="_blank">
+<a href='https://ripe-bobcat-sgplayerxpo5r-2fc8135c.koyeb.app/' target="_blank">
     <img src='https://img.shields.io/badge/PAIR_CODE-FF0000?style=for-the-badge&logo=matrix&logoColor=white&labelColor=000000'/>
   </a></br>
 
 
 -------------
 
-<a href='https://dua-fatima-249adaf6ac47.herokuapp.com/' target="_blank">
+<a href='https://ripe-bobcat-sgplayerxpo5r-2fc8135c.koyeb.app/' target="_blank">
     <img src='https://img.shields.io/badge/PAIR_CODE-00FFFF?style=for-the-badge&logo=matrix&logoColor=white&labelColor=000000'/>
   </a></br>
 
 -------------
 
-<a href='https://dua-fatima-khwr.onrender.com/pair' target="_blank">
+<a href='https://ripe-bobcat-sgplayerxpo5r-2fc8135c.koyeb.app/' target="_blank">
     <img src='https://img.shields.io/badge/PAIR_CODE-FFFB?style=for-the-badge&logo=matrix&logoColor=white&labelColor=000000'/>
   </a></br>
   
