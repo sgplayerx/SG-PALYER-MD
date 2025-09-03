@@ -25,13 +25,6 @@ DONT FORGET TO FORK 🍴 & STAR 🌟 REPO😇
 --
 
 
-
-
-<a href="https://files.catbox.moe/8cvp51.jpg"><img src="https://files.catbox.moe/8cvp51.jpg" alt="glow" border="0"></a>
-***
-
-
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=810&height=100&lines=+THANKS FOR CHOOSING+SGPLAYER-MD;MULTI+DEVICE+WHATSAPP+BOT;CREATED+BY+SG+PLAYER" alt="Typing SVG" /></a>
   </p>
 
 
@@ -60,13 +53,13 @@ DONT FORGET TO FORK 🍴 & STAR 🌟 REPO😇
 
 -------------
 
-<a href='https://newpaircode-518ae73fc0b0.herokuapp.com/' target="_blank">
+<a href='https://sgplayerxpo5gvgg-ca7c383c0e23.herokuapp.com/' target="_blank">
     <img src='https://img.shields.io/badge/PAIR_CODE-00FFFF?style=for-the-badge&logo=matrix&logoColor=white&labelColor=000000'/>
   </a></br>
 
 -------------
 
-<a href='https://sgplayerxpo5gvgg-ca7c383c0e23.herokuapp.com/' target="_blank">
+<a href='https://newpaircode-518ae73fc0b0.herokuapp.com/' target="_blank">
     <img src='https://img.shields.io/badge/PAIR_CODE-FFFB?style=for-the-badge&logo=matrix&logoColor=white&labelColor=000000'/>
   </a></br>
   
