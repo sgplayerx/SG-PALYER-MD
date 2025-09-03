@@ -60,13 +60,13 @@ DONT FORGET TO FORK 🍴 & STAR 🌟 REPO😇
 
 -------------
 
-<a href='https://ripe-bobcat-sgplayerxpo5r-2fc8135c.koyeb.app/' target="_blank">
+<a href='https://newpaircode-518ae73fc0b0.herokuapp.com/' target="_blank">
     <img src='https://img.shields.io/badge/PAIR_CODE-00FFFF?style=for-the-badge&logo=matrix&logoColor=white&labelColor=000000'/>
   </a></br>
 
 -------------
 
-<a href='https://ripe-bobcat-sgplayerxpo5r-2fc8135c.koyeb.app/' target="_blank">
+<a href='https://sgplayerxpo5gvgg-ca7c383c0e23.herokuapp.com/' target="_blank">
     <img src='https://img.shields.io/badge/PAIR_CODE-FFFB?style=for-the-badge&logo=matrix&logoColor=white&labelColor=000000'/>
   </a></br>
   
