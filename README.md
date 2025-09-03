@@ -1,4 +1,4 @@
-![SG-PLAYER-MD](https://readme-typing-svg.demolab.com?font=Roboto&size=26&weight=600&pause=1000&color=FF69B4&center=true&vCenter=true&width=600&lines=✨+ASSALAMUALAIKUM!+WELCOME+TO+SG-PLAYER-MD;🔥+ULTIMATE+WHATSAPP+BOT+WITH+MANY%2B+FEATURES;⚡+FASTEST+•+MOST+ADVANCED+•+USER+FRIENDLY&color=FF69B4&color=4285F4&color=00C853&color=9C27B0&color=FF5722)
+![SG-PLAYET-MD](https://readme-typing-svg.demolab.com?font=Roboto&size=26&weight=600&pause=1000&color=FF69B4&center=true&vCenter=true&width=600&lines=✨+ASSALAMUALAIKUM!+WELCOME+TO+SG-PLAYER-MD;🔥+ULTIMATE+WHATSAPP+BOT+WITH+MANY%2B+FEATURES;⚡+FASTEST+•+MOST+ADVANCED+•+USER+FRIENDLY&color=FF69B4&color=4285F4&color=00C853&color=9C27B0&color=FF5722)
 ```
 DONT FORGET TO FORK 🍴 & STAR 🌟 REPO😇
 ```
@@ -22,7 +22,7 @@ DONT FORGET TO FORK 🍴 & STAR 🌟 REPO😇
 <p align='center'>
 </p>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=810&height=100&lines=+THANKS FOR CHOOSING+SGPLAYER-MD;MULTI+DEVICE+WHATSAPP+BOT;CREATED+BY+SG+PLAYER" alt="Typing SG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=810&height=100&lines=+THANKS FOR CHOOSING+SGPLAYER-MD;MULTI+DEVICE+WHATSAPP+BOT;CREATED+BY+SG+PLAYER" alt="Typing SVG" /></a>
   </p>
   
 --- 
